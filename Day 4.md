@@ -1,6 +1,6 @@
 📅 Day 4 – Summer Training at AppTechies
 
-Date: June 26, 2025
+Date: June 30, 2025
 Training Domain: Artificial Intelligence
 Company: AppTechies
 
